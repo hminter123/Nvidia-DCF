@@ -32,3 +32,9 @@ Equity Value = Enterprise Value + Cash & Marketable Securities − Debt
 
 Finally:
 Implied Share Price = Equity Value / Shares Outstanding
+
+
+
+This left us with an implied share price of $247.22, with the market price being $237.89 meaning an Upside: 3.9%
+
+<img width="834" height="1101" alt="Screenshot 2026-10-06 183452" src="https://github.com/user-attachments/assets/7245b9ed-f74c-4620-8c8c-8ed9ae203a35" />
